@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/abler-config/pom.xml" />
         <option value="$PROJECT_DIR$/abler-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/abler-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/abler-user-service/pom.xml" />
       </list>
     </option>
   </component>
